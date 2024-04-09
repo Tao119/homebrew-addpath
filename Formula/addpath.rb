@@ -2,7 +2,7 @@ class Addpath < Formula
   desc "cli path utility written in Rust"
   homepage "https://github.com/Tao119/addpath"
   url "https://github.com/Tao119/addpath/releases/download/release0.1.2/addpath-0.1.2-x86_64-apple-darwin.tar.gz"
-  sha256 "3c4d98ffde3ea82d6132f490b9542a482c7d5837aa4b8acf7dece56f568c2357"
+  sha256 "72d9596da6b049662a28dc68cc867340034e9a23b223d15ef4a6e5db0f2d4b70"
   version "0.1.2"
 
   def install
